@@ -1,0 +1,15 @@
+{
+  "customers" : [
+      {
+        "name" : "Suyash Choudhary",
+        "address" : "304, Classic Diboor, Sarvabhogam Nagar, Arekere, Bengaluru",
+        "balance" : 50000
+      }
+  ],
+  "vendor" : {
+    "name" : "CLICKTECH RETAIL PRIVATE LIMITED",
+    "GST" : "29AAJCC9783E1Z3",
+    "address" : "Sr No .. 43,44,45,46 Madanahatti, Venkatapura(V), Sr No.118/1A, 118/1B,118/2,119/1,119/2,, Marasandra(V),Malur(T),Kolar(D), Bangalore, KARNATAKA, 563160, IN"
+  },
+  "allowedCategories" : ["Electronics","SelfCare","Equipments","Education","Fitness","Mental Health"]
+}
