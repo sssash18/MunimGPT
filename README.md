@@ -1,1 +1,3 @@
 # MunimGPT
+The current process for Perks+ reimbursement relies on manual review, which is both time-consuming and prone to errors. This manual approach can lead to delays and inconsistencies, negatively impacting employee satisfaction and operational efficiency.
+To address these issues, we propose automating the invoice analysis process using Azure OpenAI. By leveraging advanced technologies such as Optical Character Recognition (OCR) and Azure OpenAI, we can instantly and accurately analyze submitted invoices. This automation will enhance the accuracy and speed of reimbursements, providing a more seamless and unbiased experience for employees while improving overall process efficiency from the company’s perspective.
